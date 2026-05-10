@@ -23,12 +23,14 @@ Realizo análisis y diseño de estructuras de hormigón (Concreto), Metálicos y
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GastonMasco&layout=compact&theme=radical&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="Lenguajes más usados" />
 </p>
 
+- 📑 **Interactive Web CV**: [Ver en vivo ↗](https://gastonmasco.github.io/mi-curriculum/) | [Ver repositorio ↗](https://github.com/GastonMasco/mi-curriculum)
+- 📝 Mi currículum oficial está disponible en: [https://gastonmasco.github.io/mi-curriculum/](https://gastonmasco.github.io/mi-curriculum/)
+
 ---
 
-### 🚀 Últimos Proyectos & Actividad
-- 🌉 **Bridge Cable Mapping Tool**: Herramienta para el mapeo 3D de trayectorias de cables en puentes.
-- 📋 **Interactive Web CV**: Dashboard profesional con estética de IDE para visualizar portafolio y habilidades.
-- 🔄 **Automation Suite**: Plugins y scripts para optimización de tareas en entornos BIM.
+### 🚀 Proyectos Destacados
+- 🌉 **Bridge Cable Mapping Tool**: Herramienta avanzada para mapeo 3D de cables en puentes.
+- 🔄 **BIM Automation Suite**: Plugins personalizados para optimización de procesos en Revit.
 
 ---
 
